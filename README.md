@@ -66,3 +66,10 @@ The move by the computer should probably be random if the previous checks turn o
 ## Submission Format
 
 - [ ] Submit a Pull-Request to merge `<firstName-lastName>` Branch into `main` (student's  Repo). **Please don't merge your own pull request**
+
+## recordings
+
+[emily seibert](https://youtu.be/4TpepM6kjAQ)
+[dan frehner](https://youtu.be/2eiUgGFnQgo)
+[dan levy](https://youtu.be/sQutrpLPKcw)
+[jason maurer](https://youtu.be/FEjMMpAlPqs)
